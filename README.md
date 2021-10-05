@@ -6,7 +6,7 @@ To read about the findings you can go to:
  
  Airline_Carriers_model.ipynb contains the linear model and statistics to answer the questions raised. 
  Inputs:
- - airline.csv : CSV file containing the dataset with more than 1million flights.
+ - airline.csv (inside airline.rar): CSV file containing the dataset with more than 1million flights.
  - carrier.csv :  CSV file containing the linke between carrier code and Carrier Name.
  - Function.py: python containg function used to postprocess the linear model. 
 
